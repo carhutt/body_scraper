@@ -1,6 +1,6 @@
 # body_scraper
 
-This project contains what you need to scrape the body text from a list of URLS.
+This script scrapes the body text from a list of URLS and outputs the text from each URL in a separate .txt file.
 
 It was built on OSX 10.10.  It uses bash and Ruby with the nokogiri library.
 
